@@ -3,4 +3,5 @@ This is a Object Oriented Programming in C++ project. It is an "FYP Managenent S
 This project uses concepts of Object Oriented Programming and filing.
 It is a Full fledge Final Year Project Management System. 
 It contains all the related functions.
+The report.docx file contains all the information about modules and how to use.
 
